@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_create_first_api",
+  "version": "1.0.0",
+  "description": "NodeJS API Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "NodeJS",
+    "Create",
+    "First",
+    "API"
+  ],
+  "author": "Jason Azevedo",
+  "license": "ISC"
+}
